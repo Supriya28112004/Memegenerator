@@ -1,4 +1,5 @@
-## Features ##
+<pre>
+  ## Features ##
 Signup and Login using Firebase
 Dashboard
 Memeeditor page
@@ -33,7 +34,7 @@ Styling- tailwind css
 <img width="897" alt="image" src="https://github.com/user-attachments/assets/b353d4de-e271-4288-8f59-3a4ff271efb9" />
 
 
-
+</pre>
 
 
              
